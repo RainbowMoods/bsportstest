@@ -1,0 +1,61 @@
+2022-02-15 10:02:915 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 11:02:583 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 11:02:990 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 11:02:780 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 11:02:434 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 12:02:799 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 12:02:390 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 12:02:610 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 12:02:486 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 12:02:848 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 12:02:662 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 13:02:881 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 14:02:117 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 14:02:339 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 14:02:662 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 14:02:612 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 14:02:603 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 14:02:20 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 14:02:856 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 14:02:82 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 15:02:554 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 15:02:610 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 15:02:321 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 15:02:450 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 15:02:449 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 15:02:52 WARN  HashedWheelTimer :672 - An exception was thrown by TimerTask.
+java.lang.IllegalStateException: cannot be started once stopped
+	at io.netty.util.HashedWheelTimer.start(HashedWheelTimer.java:338)
+	at io.netty.util.HashedWheelTimer.newTimeout(HashedWheelTimer.java:413)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.scheduleNewIdleChannelDetector(DefaultChannelPool.java:95)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.access$900(DefaultChannelPool.java:43)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool$IdleChannelDetector.run(DefaultChannelPool.java:378)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:669)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:744)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:469)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2022-02-15 15:02:384 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 15:02:982 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 15:02:300 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 15:02:158 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 15:02:611 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 15:02:902 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 16:02:296 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 16:02:645 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 16:02:434 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 16:02:506 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 16:02:504 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 16:02:565 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 16:02:212 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 16:02:794 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 16:02:73 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 16:02:804 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 16:02:221 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 16:02:552 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 23:02:755 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 23:02:957 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 23:02:329 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 23:02:652 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 23:02:685 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-15 23:02:690 INFO  ManageDriver :31 - Launching Chrome Browser
